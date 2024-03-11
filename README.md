@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**LayanAlmousa/LayanAlmousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Layan Almousa, an inspired IT student passionate about learning new ways to solve problems and create solutions, so excited for more and more projects.
 
-Here are some ideas to get you started:
+🔭 I’m currently learning mobile applications programming in android studio, Wireless communications, and Back-end web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I have experience with HTML, CSS, and JavaScript.
+
+🚀 Interested in Robotics, IoT, Front-end development, and Programming in general.
+
+📫 How to reach me:
+- LinkedIn: [Layan Almousa](www.linkedin.com/in/layanalmousa)
+
+
