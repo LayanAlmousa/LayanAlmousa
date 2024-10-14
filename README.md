@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hi
 
 I'm Layan Almousa, an inspired IT student passionate about learning new ways to solve problems and create solutions, so excited for more and more projects.
 
-🔭 I’m currently learning mobile applications programming in android studio, Wireless communications, and Back-end web development.
+I’m currently learning VR technology, mobile application development, Arduino, Cloud Computing, and Python.
 
-🌱 I have experience with HTML, CSS, and JavaScript.
-
-🚀 Interested in Robotics, IoT, Front-end development, and Programming in general.
+Would like to learn more about Robotics, IoT, and digital transformation.
 
 📫 How to reach me:
 - LinkedIn: [Layan Almousa](www.linkedin.com/in/layanalmousa)
